@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋  Grid 
+
+**`Developer`** **`Video Editor(VFX/Animator)`**
+
+I'm an indie game and full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Welcome to my corner of the internet. I'm glad you're here!
+
 
 <!--
 **OmarP94/OmarP94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
